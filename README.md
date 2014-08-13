@@ -1,4 +1,4 @@
 gtProject
 =========
 
-''' a project for testing github collaboration '''
+a project for testing github collaboration
